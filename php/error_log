@@ -1,0 +1,26 @@
+[24-Jan-2023 11:15:15 America/New_York] PHP Notice:  Undefined index: fav in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 161
+[24-Jan-2023 11:15:15 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 162
+[24-Jan-2023 11:15:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 169
+[24-Jan-2023 11:15:19 America/New_York] PHP Notice:  Undefined index: fav in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 161
+[24-Jan-2023 11:15:19 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 162
+[24-Jan-2023 11:15:19 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 169
+[24-Jan-2023 11:15:21 America/New_York] PHP Notice:  Undefined index: fav in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 161
+[24-Jan-2023 11:15:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 162
+[24-Jan-2023 11:15:21 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 169
+[24-Jan-2023 11:15:32 America/New_York] PHP Notice:  Undefined index: fav in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 161
+[24-Jan-2023 11:15:32 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 162
+[24-Jan-2023 11:15:32 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 169
+[24-Jan-2023 11:15:35 America/New_York] PHP Notice:  Undefined index: fav in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 161
+[24-Jan-2023 11:15:35 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 162
+[24-Jan-2023 11:15:35 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 169
+[25-Jan-2023 14:50:06 America/New_York] PHP Notice:  Array to string conversion in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 138
+[25-Jan-2023 14:53:04 America/New_York] PHP Notice:  Array to string conversion in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 138
+[25-Jan-2023 15:43:17 America/New_York] PHP Notice:  Undefined index: credit_score in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 131
+[25-Jan-2023 15:58:38 America/New_York] PHP Notice:  Array to string conversion in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 138
+[25-Jan-2023 19:26:22 America/New_York] PHP Notice:  Array to string conversion in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 138
+[30-Jan-2023 04:50:26 America/New_York] PHP Notice:  Undefined index: credit_score in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 131
+[24-Feb-2023 22:29:35 America/New_York] PHP Notice:  Undefined index: neighborhoods_multi in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 29
+[03-Mar-2023 13:50:51 America/New_York] PHP Notice:  Undefined index: neighborhoods_multi in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 29
+[25-Mar-2023 03:07:37 America/New_York] PHP Notice:  Undefined index: neighborhoods_multi in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 29
+[25-Mar-2023 03:07:46 America/New_York] PHP Notice:  Undefined index: neighborhoods_multi in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 29
+[25-Mar-2023 03:08:06 America/New_York] PHP Notice:  Undefined index: neighborhoods_multi in /home/thewpked/public_html/demos/mei_team/php/submit.php on line 29

@@ -1,0 +1,6 @@
+[16-Oct-2021 09:18:41 America/New_York] PHP Warning:  Undefined array key "username" in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 8
+[16-Oct-2021 09:18:41 America/New_York] PHP Warning:  Undefined array key "pass" in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 9
+[16-Oct-2021 09:18:41 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 15
+[18-Oct-2021 07:34:42 America/New_York] PHP Warning:  Undefined array key "username" in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 8
+[18-Oct-2021 07:34:42 America/New_York] PHP Warning:  Undefined array key "pass" in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 9
+[18-Oct-2021 07:34:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/thewpked/public_html/demos/Mei Team/admin/server/auth.php on line 15
